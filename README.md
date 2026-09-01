@@ -7,7 +7,7 @@
 </div>
 
 
-## <span style="color:#58A6FF">What I like doing</span>
+## <span style="color:#58A6FF">My Interests</span>
 
 * **FPGA + SDR**
   Xilinx FPGAs, Zynq SoCs, AD936x transceivers, DSP pipelines and high-speed interfaces
