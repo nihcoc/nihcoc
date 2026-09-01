@@ -43,19 +43,7 @@ Custom software-defined radio platform built around an FPGA/SoC architecture and
 
 `FPGA` `DSP` `RF` `Linux` `Raspberry Pi` `PCIe` `High Speed Design` `Verilog`
 
-## <span style="color:#58A6FF">Technologies</span>
 
-**Hardware**
-
-`FPGA` `Zynq` `Artix-7` `SDR` `RF` `PCB Design` `DDR` `DSP`
-
-**Software**
-
-`Verilog` `C/C++` `Python` `Linux` `Vivado` `Vitis` `KiCad`
-
-**Embedded**
-
-`Raspberry Pi` `ESP32` `Embedded Linux` `UART` `SPI` `I²C`
 
 ## <span style="color:#58A6FF">Currently Learning</span>
 
