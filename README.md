@@ -24,19 +24,19 @@
 
 ## <span style="color:#58A6FF">Selected Projects</span>
 
-### <span style="color:#3FB950">PeriR</span>
+### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
 
 Custom software-defined radio platform built around an FPGA/SoC architecture and an AD9364 RF transceiver.
 
 `FPGA` `DSP` `RF` `Linux` `Raspberry Pi` `PCIe` `High Speed Design` `Verilog`
 
-### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">EchoSign</span></a> 
+### <a href="https://github.com/nihcoc/EchoSign"><span style="color:#3FB950">EchoSign</span></a> 
 
 A wearable glove that converts hand language into text and speech.
 
 `KiCad` `Machine Learning` `UART` `Arduino`
 
-### <span style="color:#3FB950">WCIS</span>
+### <a href="https://github.com/nihcoc/WCIS"><span style="color:#3FB950">WCIS</span></a> 
 
 A custom ESP-32 based irrigation controller made for my mom.
 
