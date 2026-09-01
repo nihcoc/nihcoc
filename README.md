@@ -4,7 +4,6 @@
 
 </div>
 
----
 
 ## <span style="color:#58A6FF">What I'm Building</span>
 
@@ -27,7 +26,7 @@
 
 Custom software-defined radio platform built around an FPGA/SoC architecture and an AD9364 RF transceiver.
 
-`FPGA` `AD9364` `LVDS` `DSP` `RF` `Linux``Raspberry Pi`
+`FPGA` `AD9364` `LVDS` `DSP` `RF` `Linux` `Raspberry Pi`
 
 ### <span style="color:#3FB950">EchoSign</span>
 
