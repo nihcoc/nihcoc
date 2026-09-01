@@ -28,7 +28,7 @@
 
 Custom software-defined radio platform built around an FPGA/SoC architecture and an AD9364 RF transceiver.
 
-`FPGA` `AD9364` `LVDS` `DSP` `RF` `Linux` `Raspberry Pi`
+`FPGA` `DSP` `RF` `Linux` `Raspberry Pi` `PCIe` `High Speed Design` `Verilog`
 
 ### <span style="color:#3FB950">EchoSign</span>
 
