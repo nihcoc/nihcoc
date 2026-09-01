@@ -49,6 +49,11 @@ Custom STM32 based reflow oven.
 
 `STM-32` `Power Electronics` 
 
+### <span style="color:#3FB950">Lorax</span>
+
+Custom STM32 based LoRa-enabled dev board.
+
+`STM-32` `LoRa` `RF` `High Speed Design`
 
 
 ## <span style="color:#58A6FF">Currently Learning</span>
