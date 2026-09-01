@@ -52,7 +52,7 @@ Custom software-defined radio platform built around an FPGA-SoM architecture and
 * RF system design
 * High-speed PCB design
 * Vitis HLS
-* FPGA/CPU co-design
+
 
 ---
 
