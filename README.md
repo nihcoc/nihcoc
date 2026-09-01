@@ -39,7 +39,7 @@ A custom ESP-32 based irrigation controller made for my mom.
 ## <span style="color:#58A6FF">Projects that I'm working on</span>
 ### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
 
-Custom software-defined radio platform built around an FPGA/SoC architecture and an AD9364 RF transceiver.
+Custom software-defined radio platform built around an FPGA-SoM architecture and an AD9364 RF transceiver.
 
 `FPGA` `DSP` `RF` `Linux` `Raspberry Pi` `PCIe` `High Speed Design` `Verilog`
 
