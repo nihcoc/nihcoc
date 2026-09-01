@@ -30,7 +30,7 @@ Custom software-defined radio platform built around an FPGA/SoC architecture and
 
 `FPGA` `DSP` `RF` `Linux` `Raspberry Pi` `PCIe` `High Speed Design` `Verilog`
 
-### <span style="color:#3FB950">EchoSign</span>
+### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">EchoSign</span></a> 
 
 A wearable glove that converts hand language into text and speech.
 
