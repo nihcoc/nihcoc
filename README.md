@@ -45,7 +45,7 @@ Custom software-defined radio platform built around an FPGA-SoM architecture and
 
 Custom STM32 based reflow oven.
 
-`FPGA` `DSP` `RF` `Linux` `Raspberry Pi` `PCIe` `High Speed Design` `Verilog`
+`STM-32` `Power Electronics` 
 
 
 
