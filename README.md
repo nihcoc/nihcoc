@@ -53,7 +53,7 @@ Custom STM32 based reflow oven.
 
 Custom STM32 based LoRa-enabled dev board.
 
-`STM-32` `LoRa` `RF` `High Speed Design`
+`STM-32` `LoRa` `RF`
 
 
 ## <span style="color:#58A6FF">Currently Learning</span>
