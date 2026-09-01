@@ -7,7 +7,7 @@
 </div>
 
 
-## <span style="color:#58A6FF">What I'm Building</span>
+## <span style="color:#58A6FF">What I like doing</span>
 
 * **FPGA + SDR**
   Xilinx FPGAs, Zynq SoCs, AD936x transceivers, DSP pipelines and high-speed interfaces
@@ -22,13 +22,7 @@
   Designing assistive wearable technology.
   
 
-## <span style="color:#58A6FF">Selected Projects</span>
-
-### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
-
-Custom software-defined radio platform built around an FPGA/SoC architecture and an AD9364 RF transceiver.
-
-`FPGA` `DSP` `RF` `Linux` `Raspberry Pi` `PCIe` `High Speed Design` `Verilog`
+## <span style="color:#58A6FF">Projects that I've worked on</span>
 
 ### <a href="https://github.com/nihcoc/EchoSign"><span style="color:#3FB950">EchoSign</span></a> 
 
@@ -41,6 +35,13 @@ A wearable glove that converts hand language into text and speech.
 A custom ESP-32 based irrigation controller made for my mom.
 
 `Python` `C/C++` `ESP32` `CAD` `WiFi`
+
+## <span style="color:#58A6FF">Projects that I'm working on</span>
+### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
+
+Custom software-defined radio platform built around an FPGA/SoC architecture and an AD9364 RF transceiver.
+
+`FPGA` `DSP` `RF` `Linux` `Raspberry Pi` `PCIe` `High Speed Design` `Verilog`
 
 ## <span style="color:#58A6FF">Technologies</span>
 
