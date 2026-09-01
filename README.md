@@ -41,6 +41,8 @@ A custom ESP-32 based irrigation controller made for my mom.
 
 Custom software-defined radio platform built around an FPGA-SoM architecture and an AD9364 RF transceiver.
 
+`FPGA` `Analog Devices` `PCIe` `RPi` `Verilog` `High Speed Design`
+
 ### <span style="color:#3FB950">STMflow</span>
 
 Custom STM32 based reflow oven.
