@@ -19,7 +19,7 @@
   High-speed digital design, DDR routing, power integrity, signal integrity and EMI
 
 * **Wearables**
-  Designing assistive wearable technology to improve accessibility and independence for people with disabilities.
+  Designing assistive wearable technology.
   
 
 ## <span style="color:#58A6FF">Selected Projects</span>
