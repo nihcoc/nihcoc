@@ -33,15 +33,6 @@ Custom STM32 based LoRa-enabled dev board.
 `STM-32` `LoRa` `RF`
 
 
-## <span style="color:#58A6FF">Currently Learning</span>
-
-* Advanced FPGA architecture
-* Digital signal processing
-* RF system design
-* High-speed PCB design
-* Vitis HLS
-
-
 ---
 
 </div>
