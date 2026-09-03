@@ -1,26 +1,3 @@
-<div align="center">
-
-# <span style="color:#58A6FF">Alfred Vipin</span>
-
----
-
-</div>
-
-
-## <span style="color:#58A6FF">My Interests</span>
-
-* **FPGA + SDR**
-  Xilinx FPGAs, Zynq SoCs, AD936x transceivers, DSP pipelines and high-speed interfaces
-
-* **RF Hardware**
-  SDR architectures, RF signal paths and mixed-signal systems
-
-* **PCB Design**
-  High-speed digital design, DDR routing, power integrity, signal integrity and EMI
-
-* **Wearables**
-  Designing assistive wearable technology.
-  
 
 ## <span style="color:#58A6FF">Projects that I've worked on</span>
 
