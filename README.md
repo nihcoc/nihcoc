@@ -9,7 +9,7 @@ A wearable glove that converts hand language into text and speech.
 
 ### <a href="https://github.com/nihcoc/WCIS"><span style="color:#3FB950">WCIS</span></a> 
 
-A custom ESP-32 based irrigation controller made for my mom.
+A DIY ESP-32 based irrigation controller made for my mom.
 
 `C/C++` `ESP32` `CAD` `WiFi` `Power Electronics` `Plumbing`
 
@@ -22,7 +22,7 @@ A custom STM-32 based LED-Matrix Analog Clock with a TCXO 32.768 kHz oscillator
 ## <span style="color:#58A6FF">Projects that I'm working on</span>
 ### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
 
-Custom software-defined radio for a RPi CM4 built around an Artix-7-50T and the AD9364 RF transceiver with PCIe 2.0 support.
+Software-defined radio for a RPi CM4 built around an Artix-7-50T and the AD9364 RF transceiver with PCIe 2.0 support.
 
 `FPGA` `Analog Devices` `PCIe` `RPi` `Verilog` `High Speed Design`
 
