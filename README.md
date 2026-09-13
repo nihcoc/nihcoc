@@ -26,17 +26,19 @@ Software-defined radio for a RPi CM4 built around an Artix-7-50T and the AD9364 
 
 `FPGA` `Analog Devices` `PCIe` `RPi` `Verilog` `High Speed Design`
 
+### <a href="https://github.com/nihcoc/LoRax"><span style="color:#3FB950">LoRax</span></a>
+
+Custom STM32 based LoRa-enabled dev board.
+
+`STM-32` `LoRa` `RF`
+
 ### <span style="color:#3FB950">STMflow</span>
 
 Custom STM32 based reflow oven.
 
 `STM-32` `Power Electronics` 
 
-### <span style="color:#3FB950">LoRax</span>
 
-Custom STM32 based LoRa-enabled dev board.
-
-`STM-32` `LoRa` `RF`
 
 
 ---
