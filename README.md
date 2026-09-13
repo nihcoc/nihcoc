@@ -22,7 +22,7 @@ A custom STM-32 based LED-Matrix Analog Clock with a TCXO 32.768 kHz oscillator
 ## <span style="color:#58A6FF">Projects that I'm working on</span>
 ### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
 
-Custom software-defined radio platform built around an FPGA-SoM architecture and an AD9364 RF transceiver.
+Custom software-defined radio for a RPi CM4 built around an Artix-7-50T and the AD9364 RF transceiver with PCIe 2.0 support.
 
 `FPGA` `Analog Devices` `PCIe` `RPi` `Verilog` `High Speed Design`
 
