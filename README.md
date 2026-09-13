@@ -13,6 +13,12 @@ A custom ESP-32 based irrigation controller made for my mom.
 
 `Python` `C/C++` `ESP32` `CAD` `WiFi`
 
+### <a href="https://github.com/nihcoc/PCBCLOCK"><span style="color:#3FB950">PCBCLOCK</span></a> 
+
+A custom STM-32 based LED-Matrix Analog Clock with a TCXO 32.768 kHz oscillator
+
+ `C` `STM-32` `Custom Matrix` `RTC`
+ 
 ## <span style="color:#58A6FF">Projects that I'm working on</span>
 ### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
 
