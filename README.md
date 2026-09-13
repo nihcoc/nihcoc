@@ -5,7 +5,7 @@
 
 A wearable glove that converts hand language into text and speech.
 
-`KiCad` `Machine Learning` `UART` `Arduino`
+`KiCad` `Machine Learning` `UART` `Arduino` `Bluetooth`
 
 ### <a href="https://github.com/nihcoc/WCIS"><span style="color:#3FB950">WCIS</span></a> 
 
