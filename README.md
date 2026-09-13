@@ -1,4 +1,4 @@
-# <span style="color:#58A3FF">Alfred Vipin</span>
+#  <a href="https://www.instagram.com/alf.rde/"><span style="color:#58A3FF">Alfred Vipin</span></a>
 
 
 ## <span style="color:#58A6FF">Projects that I've worked on</span>
