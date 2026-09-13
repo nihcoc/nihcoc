@@ -11,7 +11,7 @@ A wearable glove that converts hand language into text and speech.
 
 A custom ESP-32 based irrigation controller made for my mom.
 
-`Python` `C/C++` `ESP32` `CAD` `WiFi`
+`C/C++` `ESP32` `CAD` `WiFi` `Power Electronics` `Plumbing`
 
 ### <a href="https://github.com/nihcoc/PCBCLOCK"><span style="color:#3FB950">PCBCLOCK</span></a> 
 
