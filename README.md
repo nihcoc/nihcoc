@@ -1,4 +1,4 @@
-# <span style="color:#58A3FF">Alfred Vipin</span>
+# <center><span style="color:#58A3FF">Alfred Vipin</span></center>
 
 
 ## <span style="color:#58A6FF">Projects that I've worked on</span>
