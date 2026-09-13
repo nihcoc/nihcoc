@@ -30,7 +30,7 @@ A custom STM32 based LED-Matrix Analog Clock with a TCXO 32.768 kHz oscillator
 
 Software-defined radio for a RPi CM4 built around an Artix-7-50T and the AD9364 RF transceiver with PCIe 2.0 support.
 
-`FPGA` `Analog Devices` `PCIe` `RPi` `Verilog`
+`FPGA` `Analog Devices` `PCIe` `RPi` `Verilog` `RF`
 
 ### <a href="https://github.com/nihcoc/LoRax"><span style="color:#3FB950">LoRax</span></a>
 
