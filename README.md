@@ -3,6 +3,26 @@
 
 ---
 
+## <span style="color:#58A6FF">Projects that I'm working on</span>
+### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
+
+Software-defined radio for a RPi CM4 built around an Artix-7-50T and the AD9364 RF transceiver with PCIe 2.0 support.
+
+`FPGA` `Analog Devices` `PCIe` `RPi` `Verilog` `RF`
+
+### <a href="https://github.com/nihcoc/LoRax"><span style="color:#3FB950">LoRax</span></a>
+
+Custom STM32 based LoRa-enabled dev board.
+
+`STM-32` `LoRa` `RF`
+
+### <span style="color:#3FB950">STMflow</span>
+
+Custom STM32 based reflow oven.
+
+`STM-32` `Power Electronics` 
+
+
 
 ## <span style="color:#58A6FF">Projects that I've worked on</span>
 
@@ -25,24 +45,6 @@ A custom STM32 based LED-Matrix Analog Clock with a TCXO 32.768 kHz oscillator
 
  `C` `STM-32` `Custom Matrix` `RTC`
  
-## <span style="color:#58A6FF">Projects that I'm working on</span>
-### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
-
-Software-defined radio for a RPi CM4 built around an Artix-7-50T and the AD9364 RF transceiver with PCIe 2.0 support.
-
-`FPGA` `Analog Devices` `PCIe` `RPi` `Verilog` `RF`
-
-### <a href="https://github.com/nihcoc/LoRax"><span style="color:#3FB950">LoRax</span></a>
-
-Custom STM32 based LoRa-enabled dev board.
-
-`STM-32` `LoRa` `RF`
-
-### <span style="color:#3FB950">STMflow</span>
-
-Custom STM32 based reflow oven.
-
-`STM-32` `Power Electronics` 
 
 
 
