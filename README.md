@@ -1,54 +1,115 @@
-#  <a href="https://www.instagram.com/alf.rde/"><span style="color:#58A3FF">Alfred Vipin</span></a>
+```
+┌─ alfred@vipin:~$ whoami ─────────────────────────────────────
+│
+│  Alfred Vipin
+│  Embedded Systems  /  RF  /  FPGA
+│  Custom hardware, firmware and PCB development
+│
+│  github      github.com/nihcoc
+│  instagram   instagram.com/alf.rde
+│
+└──────────────────────────────────────────────────────────────
+```
 
-
----
-
-## <span style="color:#58A6FF">Projects that I'm working on</span>
-### <a href="https://github.com/nihcoc/PeriR"><span style="color:#3FB950">PeriR</span></a> 
-
-Software-defined radio for a RPi CM4 built around an Artix-7-50T and the AD9364 RF transceiver with PCIe 2.0 support.
-
-`FPGA` `Analog Devices` `PCIe` `RPi` `Verilog` `RF`
-
-### <a href="https://github.com/nihcoc/LoRax"><span style="color:#3FB950">LoRax</span></a>
-
-Custom STM32 based LoRa-enabled dev board.
-
-`STM-32` `LoRa` `RF`
-
-### <span style="color:#3FB950">STMflow</span>
-
-Custom STM32 based reflow oven.
-
-`STM-32` `Power Electronics` 
-
-
-
-## <span style="color:#58A6FF">Projects that I've worked on</span>
-
-
-### <a href="https://github.com/nihcoc/EchoSign"><span style="color:#3FB950">EchoSign</span></a> 
-
-A wearable glove that converts hand language into text and speech.
-
-`KiCad` `Machine Learning` `UART` `Arduino` `Bluetooth`
-
-### <a href="https://github.com/nihcoc/WCIS"><span style="color:#3FB950">WCIS</span></a> 
-
-A DIY ESP32 based irrigation controller made for my mom.
-
-`C/C++` `ESP32` `CAD` `WiFi` `Power Electronics` `Plumbing`
-
-### <a href="https://github.com/nihcoc/PCBCLOCK"><span style="color:#3FB950">PCBCLOCK</span></a> 
-
-A custom STM32 based LED-Matrix Analog Clock with a TCXO 32.768 kHz oscillator
-
- `C` `STM-32` `Custom Matrix` `RTC`
- 
-
-
-
+[GitHub](https://github.com/nihcoc) | [Instagram](https://www.instagram.com/alf.rde/)
 
 ---
 
-</div>
+## $ ls projects/ --status
+
+```
+  NAME        STATUS    DOMAIN
+  ────────────────────────────────────────────────
+  PeriR       active    FPGA / RF / PCIe
+  STMflow     active    STM32 / Power Electronics
+  EchoSign    done      Wearables / ML
+  WCIS        done      ESP32 / Irrigation
+  PCBCLOCK    done      STM32 / RTC
+```
+
+---
+
+## $ cd active/
+
+```
+┌─ PeriR ───────────────────────────────────────────── [active]
+│
+│  Software-defined radio for the Raspberry Pi CM4.
+│  Artix-7 50T FPGA, AD9364 RF transceiver, PCIe 2.0.
+│
+│   AD9364 ──── data ────▶ Artix-7 50T ──── PCIe 2.0 ────▶ CM4
+│    RF                     FPGA / DSP                      host
+│
+│  stack   FPGA  Analog Devices  PCIe  RPi  Verilog  RF
+│
+└───────────────────────────────────────────────────────────────
+```
+
+[github.com/nihcoc/PeriR](https://github.com/nihcoc/PeriR)
+
+```
+┌─ STMflow ─────────────────────────────────────────── [active]
+│
+│  STM32-based reflow oven controller.
+│
+│   temp ▲
+│        │            ▄▄▄ peak ▄▄▄
+│        │          ▄▀             ▀▄
+│        │   soak ▄▀                 ▀▄ cool
+│        │  ▄▄▄▄▀
+│        └──────────────────────────────▶ time
+│
+│  stack   STM32  Power Electronics
+│
+└───────────────────────────────────────────────────────────────
+```
+
+---
+
+## $ cd completed/
+
+```
+┌─ EchoSign ────────────────────────────────────────────── [done]
+│
+│  Wearable glove that translates hand gestures into text and speech.
+│
+│   sensors ──▶ Arduino ──▶ ML model ──▶ text + speech
+│                   UART / Bluetooth
+│
+│  stack   KiCad  Machine Learning  UART  Arduino  Bluetooth
+│
+└───────────────────────────────────────────────────────────────
+```
+
+[github.com/nihcoc/EchoSign](https://github.com/nihcoc/EchoSign)
+
+```
+┌─ WCIS ────────────────────────────────────────────────── [done]
+│
+│  ESP32-based irrigation controller with custom enclosure
+│  and plumbing integration.
+│
+│  stack   C/C++  ESP32  CAD  WiFi  Power Electronics
+│
+└───────────────────────────────────────────────────────────────
+```
+
+[github.com/nihcoc/WCIS](https://github.com/nihcoc/WCIS)
+
+```
+┌─ PCBCLOCK ────────────────────────────────────────────── [done]
+│
+│  STM32-based LED-matrix analog clock with a 32.768 kHz TCXO.
+│
+│  stack   C  STM32  Custom Matrix  RTC
+│
+└───────────────────────────────────────────────────────────────
+```
+
+[github.com/nihcoc/PCBCLOCK](https://github.com/nihcoc/PCBCLOCK)
+
+---
+
+```
+ main  │  5 projects  │  2 active  │  3 done  │  nihcoc
+```
