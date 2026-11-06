@@ -1,50 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
-  <defs>
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M20 0H0V20" fill="none" stroke="#0f2a33" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="fade" x1="0" x2="1">
-      <stop offset="0" stop-color="#0a0e14" stop-opacity="0"/>
-      <stop offset="1" stop-color="#0a0e14" stop-opacity="0.9"/>
-    </linearGradient>
-  </defs>
+<div align="center">
 
-  <rect width="900" height="240" fill="#0a0e14"/>
-  <rect width="900" height="240" fill="url(#grid)"/>
-  <rect x="0.5" y="0.5" width="899" height="239" fill="none" stroke="#12414d"/>
+<img src="assets/header.svg" width="100%" alt="Alfred Vipin - Embedded / RF / FPGA"/>
 
-  <!-- left: identity -->
-  <g font-family="'Cascadia Mono','SF Mono',Consolas,Menlo,monospace">
-    <text x="40" y="70" fill="#3b7f8f" font-size="13" letter-spacing="2">// nihcoc</text>
-    <text x="40" y="118" fill="#00e5ff" font-size="42" font-weight="700" letter-spacing="4">ALFRED VIPIN</text>
-    <text x="40" y="152" fill="#9fb8c0" font-size="14" letter-spacing="3">EMBEDDED  /  RF  /  FPGA</text>
-    <text x="40" y="196" fill="#3b7f8f" font-size="12" letter-spacing="1">custom hardware  .  firmware  .  PCB design</text>
-  </g>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3200&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=SDR+%2F+FPGA+%2F+PCIe;STM32+%2F+ESP32+firmware;RF+front+ends+and+custom+PCBs" alt=""/>
 
-  <!-- right: logic analyzer traces -->
-  <g font-family="'Cascadia Mono','SF Mono',Consolas,Menlo,monospace" font-size="11" fill="#3b7f8f">
-    <text x="478" y="70">CLK</text>
-    <text x="478" y="130">DATA</text>
-    <text x="478" y="190">CS</text>
-  </g>
-  <g transform="translate(40,0)" fill="none" stroke="#00e5ff" stroke-width="2" stroke-linejoin="miter">
-    <path d="M470 80 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24"/>
-    <path stroke="#7df3ff" d="M470 140 h40 v-24 h60 v24 h20 v-24 h20 v24 h80 v-24 h40 v24 h60 v-24 h30 v24 h40 v-24 h30"/>
-    <path stroke="#2aa9bd" d="M470 200 h60 v-24 h200 v24 h140"/>
-  </g>
+<br/>
 
-  <!-- fade right edge -->
-  <rect x="700" width="200" height="240" fill="url(#fade)"/>
+[![GitHub](https://img.shields.io/badge/github-nihcoc-0a0e14?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0a0e14&color=00e5ff)](https://github.com/nihcoc)
+[![Instagram](https://img.shields.io/badge/instagram-alf.rde-0a0e14?style=for-the-badge&logo=instagram&logoColor=00e5ff&labelColor=0a0e14&color=12414d)](https://www.instagram.com/alf.rde/)
 
-  <!-- sweeping cursor -->
-  <g>
-    <rect x="0" y="20" width="1.5" height="200" fill="#00e5ff" opacity="0.7">
-      <animate attributeName="x" values="500;880;500" dur="8s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+</div>
 
-  <!-- blinking status -->
-  <circle cx="868" cy="28" r="3" fill="#00e5ff">
-    <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+<div align="center">
+
+```
+ _____┐  ┌──┐  ┌─────┐  ┌┐ ┌──┐  ┌────────┐  ┌──┐  ┌┐ ┌─────
+      └──┘  └──┘     └──┘└─┘  └──┘        └──┘  └──┘└─┘
+```
+
+</div>
+
+## `> stack`
+
+<div align="center">
+
+![FPGA](https://img.shields.io/badge/FPGA-Artix--7-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+![HDL](https://img.shields.io/badge/HDL-Verilog-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+![RF](https://img.shields.io/badge/RF-AD9364-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+![PCIe](https://img.shields.io/badge/IF-PCIe%202.0-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+![STM32](https://img.shields.io/badge/MCU-STM32-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+![ESP32](https://img.shields.io/badge/MCU-ESP32-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+![Arduino](https://img.shields.io/badge/MCU-Arduino-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+![KiCad](https://img.shields.io/badge/EDA-KiCad-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+![C](https://img.shields.io/badge/LANG-C%2FC%2B%2B-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+
+</div>
+
+## `> active`
+
+<div align="center">
+
+<a href="https://github.com/nihcoc/PeriR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nihcoc&repo=PeriR&hide_border=false&border_color=12414d&bg_color=0a0e14&title_color=00e5ff&icon_color=00e5ff&text_color=9fb8c0" alt="PeriR"/></a>
+
+</div>
+
+```
+ AD9364 RF ──── data ────▶ Artix-7 50T ──── PCIe 2.0 ────▶ RPi CM4
+ transceiver               FPGA / DSP                       host
+```
+
+Software-defined radio for the Raspberry Pi CM4, built around an Artix-7 50T FPGA and the AD9364 RF transceiver, with PCIe 2.0 support.
+
+![FPGA](https://img.shields.io/badge/FPGA-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![Analog Devices](https://img.shields.io/badge/Analog%20Devices-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![PCIe](https://img.shields.io/badge/PCIe-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![RPi](https://img.shields.io/badge/RPi-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![Verilog](https://img.shields.io/badge/Verilog-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![RF](https://img.shields.io/badge/RF-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+
+<br/>
+
+**STMflow** - STM32-based reflow oven controller.
+
+```
+ temp ▲
+      │            ▄▄▄ peak ▄▄▄
+      │          ▄▀             ▀▄
+      │   soak ▄▀                 ▀▄ cool
+      │  ▄▄▄▄▀
+      └──────────────────────────────▶ time
+```
+
+![STM32](https://img.shields.io/badge/STM32-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![Power Electronics](https://img.shields.io/badge/Power%20Electronics-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
+
+## `> completed`
+
+<div align="center">
+
+<a href="https://github.com/nihcoc/EchoSign"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nihcoc&repo=EchoSign&border_color=12414d&bg_color=0a0e14&title_color=00e5ff&icon_color=00e5ff&text_color=9fb8c0" alt="EchoSign"/></a>
+<a href="https://github.com/nihcoc/WCIS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nihcoc&repo=WCIS&border_color=12414d&bg_color=0a0e14&title_color=00e5ff&icon_color=00e5ff&text_color=9fb8c0" alt="WCIS"/></a>
+<a href="https://github.com/nihcoc/PCBCLOCK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nihcoc&repo=PCBCLOCK&border_color=12414d&bg_color=0a0e14&title_color=00e5ff&icon_color=00e5ff&text_color=9fb8c0" alt="PCBCLOCK"/></a>
+
+</div>
+
+| Project | Summary | Stack |
+|---|---|---|
+| **EchoSign** | Wearable glove that translates hand gestures into text and speech | KiCad, Machine Learning, UART, Arduino, Bluetooth |
+| **WCIS** | ESP32-based irrigation controller with custom enclosure and plumbing integration | C/C++, ESP32, CAD, WiFi, Power Electronics |
+| **PCBCLOCK** | STM32-based LED-matrix analog clock with a 32.768 kHz TCXO | C, STM32, Custom Matrix, RTC |
+
+<div align="center">
+
+```
+ _____┐  ┌──┐  ┌─────┐  ┌┐ ┌──┐  ┌────────┐  ┌──┐  ┌┐ ┌─────
+      └──┘  └──┘     └──┘└─┘  └──┘        └──┘  └──┘└─┘
+```
+
+</div>
