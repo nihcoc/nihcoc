@@ -63,9 +63,6 @@ STM32-based LED-matrix analog clock with a 32.768 kHz TCXO.
 
 <div align="center">
 
-```
- _____┐  ┌──┐  ┌─────┐  ┌┐ ┌──┐  ┌────────┐  ┌──┐  ┌┐ ┌─────
-      └──┘  └──┘     └──┘└─┘  └──┘        └──┘  └──┘└─┘
-```
+
 
 </div>
