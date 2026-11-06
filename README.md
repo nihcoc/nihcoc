@@ -61,12 +61,3 @@ Software-defined radio for the Raspberry Pi CM4, built around an Artix-7 50T FPG
 | **EchoSign** | Wearable glove that translates hand gestures into text and speech | KiCad, Machine Learning, UART, Arduino, Bluetooth |
 | **WCIS** | ESP32-based irrigation controller with custom enclosure and plumbing integration | C/C++, ESP32, CAD, WiFi, Power Electronics |
 | **PCBCLOCK** | STM32-based LED-matrix analog clock with a 32.768 kHz TCXO | C, STM32, Custom Matrix, RTC |
-
-<div align="center">
-
-```
- _____┐  ┌──┐  ┌─────┐  ┌┐ ┌──┐  ┌────────┐  ┌──┐  ┌┐ ┌─────
-      └──┘  └──┘     └──┘└─┘  └──┘        └──┘  └──┘└─┘
-```
-
-</div>
