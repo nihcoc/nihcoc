@@ -1,99 +1,50 @@
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#0f2a33" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0a0e14" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0a0e14" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=220&section=header&text=Alfred%20Vipin&fontSize=54&fontColor=c0caf5&fontAlignY=40&desc=Embedded%20Systems%20%7C%20RF%20%7C%20FPGA&descSize=16&descColor=a9b1d6&descAlignY=60" width="100%" alt="Alfred Vipin"/>
+  <rect width="900" height="240" fill="#0a0e14"/>
+  <rect width="900" height="240" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="899" height="239" fill="none" stroke="#12414d"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Custom+hardware%2C+firmware+and+PCB+development;Software-defined+radio+and+FPGA+design;STM32+%2F+ESP32+%2F+RF+front+ends" alt="typing"/>
+  <!-- left: identity -->
+  <g font-family="'Cascadia Mono','SF Mono',Consolas,Menlo,monospace">
+    <text x="40" y="70" fill="#3b7f8f" font-size="13" letter-spacing="2">// nihcoc</text>
+    <text x="40" y="118" fill="#00e5ff" font-size="42" font-weight="700" letter-spacing="4">ALFRED VIPIN</text>
+    <text x="40" y="152" fill="#9fb8c0" font-size="14" letter-spacing="3">EMBEDDED  /  RF  /  FPGA</text>
+    <text x="40" y="196" fill="#3b7f8f" font-size="12" letter-spacing="1">custom hardware  .  firmware  .  PCB design</text>
+  </g>
 
-<br/>
+  <!-- right: logic analyzer traces -->
+  <g font-family="'Cascadia Mono','SF Mono',Consolas,Menlo,monospace" font-size="11" fill="#3b7f8f">
+    <text x="478" y="70">CLK</text>
+    <text x="478" y="130">DATA</text>
+    <text x="478" y="190">CS</text>
+  </g>
+  <g transform="translate(40,0)" fill="none" stroke="#00e5ff" stroke-width="2" stroke-linejoin="miter">
+    <path d="M470 80 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24 h20 v-24 h20 v24"/>
+    <path stroke="#7df3ff" d="M470 140 h40 v-24 h60 v24 h20 v-24 h20 v24 h80 v-24 h40 v24 h60 v-24 h30 v24 h40 v-24 h30"/>
+    <path stroke="#2aa9bd" d="M470 200 h60 v-24 h200 v24 h140"/>
+  </g>
 
-[![GitHub](https://img.shields.io/badge/github-nihcoc-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26&color=7aa2f7)](https://github.com/nihcoc)
-[![Instagram](https://img.shields.io/badge/instagram-alf.rde-1a1b26?style=for-the-badge&logo=instagram&logoColor=c0caf5&labelColor=1a1b26&color=bb9af7)](https://www.instagram.com/alf.rde/)
+  <!-- fade right edge -->
+  <rect x="700" width="200" height="240" fill="url(#fade)"/>
 
-</div>
+  <!-- sweeping cursor -->
+  <g>
+    <rect x="0" y="20" width="1.5" height="200" fill="#00e5ff" opacity="0.7">
+      <animate attributeName="x" values="500;880;500" dur="8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 
----
-
-<h2 align="center">$ ls ~/stack</h2>
-
-<div align="center">
-
-![FPGA](https://img.shields.io/badge/FPGA-Artix--7-1a1b26?style=flat-square&labelColor=1a1b26&color=7aa2f7)
-![Verilog](https://img.shields.io/badge/HDL-Verilog-1a1b26?style=flat-square&labelColor=1a1b26&color=7aa2f7)
-![STM32](https://img.shields.io/badge/MCU-STM32-1a1b26?style=flat-square&labelColor=1a1b26&color=9ece6a)
-![ESP32](https://img.shields.io/badge/MCU-ESP32-1a1b26?style=flat-square&labelColor=1a1b26&color=9ece6a)
-![Arduino](https://img.shields.io/badge/MCU-Arduino-1a1b26?style=flat-square&labelColor=1a1b26&color=9ece6a)
-![RF](https://img.shields.io/badge/RF-AD9364-1a1b26?style=flat-square&labelColor=1a1b26&color=e0af68)
-![PCIe](https://img.shields.io/badge/Interface-PCIe%202.0-1a1b26?style=flat-square&labelColor=1a1b26&color=e0af68)
-![KiCad](https://img.shields.io/badge/EDA-KiCad-1a1b26?style=flat-square&labelColor=1a1b26&color=bb9af7)
-![C](https://img.shields.io/badge/Lang-C%2FC%2B%2B-1a1b26?style=flat-square&labelColor=1a1b26&color=bb9af7)
-
-</div>
-
----
-
-<h2 align="center">$ cd active/</h2>
-
-<div align="center">
-
-<a href="https://github.com/nihcoc/PeriR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nihcoc&repo=PeriR&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="PeriR"/>
-</a>
-
-</div>
-
-```
- AD9364 RF  ────── data ──────▶  Artix-7 50T  ────── PCIe 2.0 ──────▶  RPi CM4
- transceiver                     FPGA / DSP                            host
-```
-
-Software-defined radio for the Raspberry Pi CM4, built around an Artix-7 50T FPGA and the AD9364 RF transceiver, with PCIe 2.0 support.
-
-![FPGA](https://img.shields.io/badge/FPGA-1a1b26?style=flat-square&labelColor=1a1b26&color=7aa2f7) ![Analog Devices](https://img.shields.io/badge/Analog%20Devices-1a1b26?style=flat-square&labelColor=1a1b26&color=7aa2f7) ![PCIe](https://img.shields.io/badge/PCIe-1a1b26?style=flat-square&labelColor=1a1b26&color=e0af68) ![RPi](https://img.shields.io/badge/RPi-1a1b26?style=flat-square&labelColor=1a1b26&color=f7768e) ![Verilog](https://img.shields.io/badge/Verilog-1a1b26?style=flat-square&labelColor=1a1b26&color=bb9af7) ![RF](https://img.shields.io/badge/RF-1a1b26?style=flat-square&labelColor=1a1b26&color=e0af68)
-
-<br/>
-
-```
-┌─ STMflow ──────────────────────────────────────────── [active]
-│
-│  STM32-based reflow oven controller.
-│
-│   temp ▲
-│        │            ▄▄▄ peak ▄▄▄
-│        │          ▄▀             ▀▄
-│        │   soak ▄▀                 ▀▄ cool
-│        │  ▄▄▄▄▀
-│        └──────────────────────────────▶ time
-│
-└────────────────────────────────────────────────────────────
-```
-
-![STM32](https://img.shields.io/badge/STM32-1a1b26?style=flat-square&labelColor=1a1b26&color=9ece6a) ![Power Electronics](https://img.shields.io/badge/Power%20Electronics-1a1b26?style=flat-square&labelColor=1a1b26&color=e0af68)
-
----
-
-<h2 align="center">$ cd completed/</h2>
-
-<div align="center">
-
-<a href="https://github.com/nihcoc/EchoSign"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nihcoc&repo=EchoSign&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="EchoSign"/></a>
-<a href="https://github.com/nihcoc/WCIS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nihcoc&repo=WCIS&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="WCIS"/></a>
-<a href="https://github.com/nihcoc/PCBCLOCK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nihcoc&repo=PCBCLOCK&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="PCBCLOCK"/></a>
-
-</div>
-
-| Project | Summary | Stack |
-|---|---|---|
-| **EchoSign** | Wearable glove that translates hand gestures into text and speech | KiCad, Machine Learning, UART, Arduino, Bluetooth |
-| **WCIS** | ESP32-based irrigation controller with custom enclosure and plumbing integration | C/C++, ESP32, CAD, WiFi, Power Electronics |
-| **PCBCLOCK** | STM32-based LED-matrix analog clock with a 32.768 kHz TCXO | C, STM32, Custom Matrix, RTC |
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nihcoc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" height="150" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihcoc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6" height="150" alt="languages"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b26&height=100&section=footer" width="100%" alt=""/>
-
-</div>
+  <!-- blinking status -->
+  <circle cx="868" cy="28" r="3" fill="#00e5ff">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
