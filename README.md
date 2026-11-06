@@ -14,7 +14,7 @@
 
 </div>
 
-## `> active`
+## `> What I'm currently working on`
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Software-defined radio for the Raspberry Pi CM4, built around an Artix-7 50T FPG
 
 ![STM32](https://img.shields.io/badge/STM32-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![Power Electronics](https://img.shields.io/badge/Power%20Electronics-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
 
-## `> completed`
+## `> What I've completed`
 
 <div align="center">
 
