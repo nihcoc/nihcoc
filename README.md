@@ -11,16 +11,8 @@
 
 </div>
 
-<div align="center">
 
-```
- _____┐  ┌──┐  ┌─────┐  ┌┐ ┌──┐  ┌────────┐  ┌──┐  ┌┐ ┌─────
-      └──┘  └──┘     └──┘└─┘  └──┘        └──┘  └──┘└─┘
-```
-
-</div>
-
-## `> active`
+## `> Currently working on`
 
 ### [PeriR](https://github.com/nihcoc/PeriR)
 
@@ -48,16 +40,12 @@ STM32-based reflow oven controller.
 
 ![STM-32](https://img.shields.io/badge/STM--32-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![Power Electronics](https://img.shields.io/badge/Power%20Electronics-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
 
-## `> completed`
+## `> What I've completed`
 
 ### [EchoSign](https://github.com/nihcoc/EchoSign)
 
 Wearable glove that translates hand gestures into text and speech.
 
-```
- glove sensors ──▶ Arduino ──▶ ML model ──▶ text + speech
-                    UART / Bluetooth
-```
 
 ![KiCad](https://img.shields.io/badge/KiCad-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![UART](https://img.shields.io/badge/UART-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![Arduino](https://img.shields.io/badge/Arduino-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff) ![Bluetooth](https://img.shields.io/badge/Bluetooth-0a0e14?style=flat-square&labelColor=0a0e14&color=00e5ff)
 
